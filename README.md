@@ -50,6 +50,6 @@ $ rebar3 dirs template_dir checkouts_dir
 
 ## About
 
-Copyright 2024 [Jesse Gumm](https://jessegumm.com)
+Copyright 2024 [Jesse Gumm](http://jessegumm.com)
 
 Licensed under Apache 2.0
